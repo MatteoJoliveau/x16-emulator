@@ -6,3 +6,6 @@ x16emu_win.zip
 rom_labels.h
 rom.bin
 chargen.bin
+/build
+/.vscode
+/.cache
